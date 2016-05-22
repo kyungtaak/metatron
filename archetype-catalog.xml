@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog xsi:schemaLocation="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0 http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd"
+    xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <archetypes>
+    <archetype>
+      <groupId>com.skt.metatron</groupId>
+      <artifactId>metatron-archetype-modelmanager</artifactId>
+      <version>0.8-SNAPSHOT</version>
+      <description>metatron-archetype-modelmanager</description>
+    </archetype>
+  </archetypes>
+</archetype-catalog>

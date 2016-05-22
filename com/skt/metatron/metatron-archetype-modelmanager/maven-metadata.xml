@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.skt.metatron</groupId>
+  <artifactId>metatron-archetype-modelmanager</artifactId>
+  <versioning>
+    <versions>
+      <version>0.8-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160522014020</lastUpdated>
+  </versioning>
+</metadata>
